@@ -46,6 +46,6 @@ Create a binary classifier that is capable of predicting whether applicants will
    ![](Resources/pic6.png)
   
 
-###Summary
+##Summary
 
 Ran the model many diffrent ways, ran with three layers and/or two layers, with diffrent activation types. Reduced the number of neurons, and epoch. with very little change in accuracy and loss.  
